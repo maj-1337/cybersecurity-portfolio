@@ -6,3 +6,6 @@ Participating in the NCL's Capture The Flag (CTF) challenges was a valuable lear
 ## NCL Invidiual Game Scouting Report
 Link: https://cyberskyline.com/report/YJEPM5V1QCG4
 
+## NCL Team Game Scouting Report
+Link: cyberskyline.com/report/076PKAHE0HR0
+
